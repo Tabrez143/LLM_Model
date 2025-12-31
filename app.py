@@ -7,9 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1qzXcRZze31NpOqUwwHS_byVY-6CHAHSn
 """
 
-pip install streamlit
 
-pip install -q -U google-genai
 
 # -*- coding: utf-8 -*-
 """app.ipynb
